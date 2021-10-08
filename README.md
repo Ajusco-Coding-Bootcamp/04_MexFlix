@@ -15,7 +15,7 @@
 
 ## 1. Description
 
-Application to see a Movie Cathalogue designed for a spepcific group of users interested in a movie theme. 
+Application to see a Movie Cathalogue designed for a specific group of users interested in a movie topic or gender. 
 
 
 ![Movie Cathalogue](https://media.giphy.com/media/3ohrypRJTlPUvTiFfW/giphy.gif)
@@ -146,7 +146,7 @@ a favourites list creation using and array and storing for now, in `localStorage
 - [ ] npm init 
 - [ ] API 
 - [ ] fetch() method
-- [ ] promises in JavaScript
+- [ ] promises in JavaScript 
 - [ ] JSON 
 - [ ] iterate data
 - [ ] import & export modules
